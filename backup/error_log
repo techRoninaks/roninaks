@@ -1,0 +1,298 @@
+[08-Jan-2019 10:09:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 19
+[08-Jan-2019 10:09:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 19
+[08-Jan-2019 10:10:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 19
+[08-Jan-2019 10:13:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 19
+[08-Jan-2019 10:14:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 19
+[08-Jan-2019 10:18:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:19:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:20:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:20:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:22:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:23:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 20
+[08-Jan-2019 10:25:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:25:30 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 29
+[08-Jan-2019 10:25:30 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:27:15 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 29
+[08-Jan-2019 10:28:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:29:48 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:30:55 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:31:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:32:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:32:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:33:57 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:34:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:35:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:35:50 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:37:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:37:19 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:37:37 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:38:10 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:38:37 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:40:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:40:37 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:42:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:42:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:43:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:44:41 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:45:27 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:49:39 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:49:39 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 10:51:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:51:04 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 10:56:17 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:59:01 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:59:36 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 10:59:57 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:00:32 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:00:57 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:03:40 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:04:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:05:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:05:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:08:51 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:09:44 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:10:37 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:10:37 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:11:14 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:11:14 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:11:14 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:11:38 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:11:38 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:11:38 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:12:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:12:07 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:12:07 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:17:29 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/roninaks/public_html/init.php on line 42
+[08-Jan-2019 11:19:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/roninaks/public_html/init.php on line 42
+[08-Jan-2019 11:19:15 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/roninaks/public_html/init.php on line 42
+[08-Jan-2019 11:21:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 21
+[08-Jan-2019 11:22:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '`' in /home/roninaks/public_html/init.php on line 21
+[08-Jan-2019 11:23:41 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/init.php on line 7
+[08-Jan-2019 11:24:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/init.php on line 7
+[08-Jan-2019 11:24:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/init.php on line 7
+[08-Jan-2019 11:25:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/init.php on line 7
+[08-Jan-2019 11:26:21 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:26:21 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:26:21 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:27:06 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:27:06 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:27:06 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:27:36 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:27:36 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:28:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:28:35 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 35
+[08-Jan-2019 11:29:06 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:29:06 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 35
+[08-Jan-2019 11:29:28 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:29:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/roninaks/public_html/init.php on line 35
+[08-Jan-2019 11:31:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:32:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/roninaks/public_html/init.php on line 28
+[08-Jan-2019 11:32:57 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 30
+[08-Jan-2019 11:36:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 33
+[08-Jan-2019 11:37:18 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 33
+[08-Jan-2019 11:37:39 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 33
+[08-Jan-2019 11:38:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:39:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/roninaks/public_html/init.php on line 30
+[08-Jan-2019 11:41:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/roninaks/public_html/init.php on line 30
+[08-Jan-2019 11:42:14 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:42:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:43:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:44:03 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:45:15 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:45:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:46:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:47:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:47:59 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:49:15 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:50:38 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:50:51 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:51:08 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:51:17 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:51:48 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:55:39 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:59:30 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 11:59:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:00:13 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:00:57 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:01:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:03:00 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:03:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:03:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:06:33 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:06:35 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:07:50 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:08:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:09:21 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:10:24 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:10:37 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:11:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:11:51 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:12:13 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:12:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:12:47 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:13:10 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:13:33 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:14:47 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:15:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:16:03 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:17:13 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:17:17 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:17:45 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 34
+[08-Jan-2019 12:20:29 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:25:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:26:18 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:27:38 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:27:39 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:27:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 37
+[08-Jan-2019 12:43:12 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 12:47:26 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 12:47:46 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:19:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:19:48 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:20:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:25:24 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:25:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 13:34:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:03:26 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:04:21 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:10:13 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:14:11 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:32:45 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:06 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:33:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:34:24 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:34:24 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:01 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:02 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:11 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:11 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:32 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 14:35:33 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:10:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/init.php on line 38
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:11:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:13:52 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:13:52 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:13:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:13:52 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:21:55 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:21:55 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:21:55 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:21:55 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:23:53 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:23:53 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:23:53 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:23:53 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:26:21 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:26:21 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:26:21 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:26:21 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:28:49 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:28:49 Etc/GMT] PHP Notice:  Undefined index: detail in /home/roninaks/public_html/getcontact.php on line 12
+[08-Jan-2019 16:28:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:28:50 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:28:50 Etc/GMT] PHP Notice:  Undefined index: detail in /home/roninaks/public_html/getcontact.php on line 12
+[08-Jan-2019 16:28:50 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:29:17 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:29:17 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:29:17 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:29:17 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:33:30 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:33:30 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:33:30 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:33:30 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:33:34 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:33:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:33:34 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:33:34 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:07 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:07 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:07 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:11 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:11 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:34:49 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:35:25 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:35:25 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:35:25 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:35:25 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:35:27 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:35:27 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:35:27 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:35:27 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:35:28 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:35:28 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:36:00 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:16 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:31 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:31 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:31 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:37:32 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:37:32 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:38:33 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:38:33 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:39:19 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:39:19 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:39:46 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:39:46 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 14
+[08-Jan-2019 16:41:04 Etc/GMT] PHP Notice:  Undefined variable: argv in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:41:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:42:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:45:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/roninaks/public_html/getcontact.php on line 3
+[08-Jan-2019 16:46:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql_query' (T_VARIABLE) in /home/roninaks/public_html/getcontact.php on line 5
+[08-Jan-2019 16:47:56 Etc/GMT] PHP Notice:  Undefined index: name in /home/roninaks/public_html/getcontact.php on line 13
+[08-Jan-2019 16:47:56 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:51:01 Etc/GMT] PHP Notice:  Undefined index: name in /home/roninaks/public_html/getcontact.php on line 4
+[08-Jan-2019 16:51:01 Etc/GMT] PHP Notice:  Undefined index: name in /home/roninaks/public_html/getcontact.php on line 13
+[08-Jan-2019 16:51:01 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:51:28 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:52:19 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:53:54 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:55:27 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:57:05 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:57:43 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:58:23 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 16:59:51 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:01:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:01:32 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:01:50 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:03:13 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:04:04 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:05:02 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:05:30 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:05:50 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:08:55 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:09:27 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[08-Jan-2019 17:10:02 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[09-Jan-2019 04:46:20 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[09-Jan-2019 04:47:36 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
+[09-Jan-2019 04:49:45 Etc/GMT] PHP Notice:  Undefined variable: count in /home/roninaks/public_html/getcontact.php on line 15
