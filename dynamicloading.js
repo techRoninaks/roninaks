@@ -40,4 +40,7 @@ function showCustomer(str, page) {
         break;
     }
 
-}
+}   
+
+
+   
